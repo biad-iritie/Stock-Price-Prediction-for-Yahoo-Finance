@@ -16,5 +16,3 @@ Before we get to the machine learning, we need to do a lot of work to acquire an
 - Test a machine learning model
 - Setup a backtesting engine
 - Improve the accuracy of the model
-  
-At the end, we'll document some potential future directions we can go in to improve the technique.
